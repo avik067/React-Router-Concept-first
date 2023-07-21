@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+
+.row-apart {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-logo {
+  height: 50px;
+}
+p {
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 700;
+}
+.nav-link {
+  text-decoration: none;
+  margin: 10px;
+  color: #12022f;
+  font-family: 'Roboto';
+}
